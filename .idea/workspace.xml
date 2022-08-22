@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e6437f3-7c67-4cd5-9374-717cf07b5c3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c3_s5_pc2_Vehicle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vehicles/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vehicles/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vehicles/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vehicles/VehicleManufacturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vehicles/VehicleService.java" afterDir="false" />
+    <list default="true" id="6e6437f3-7c67-4cd5-9374-717cf07b5c3d" name="Changes" comment="Displaying output details of car and bile manufacturer.">
+      <change afterPath="$PROJECT_DIR$/src/com/vehicles/Output.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +67,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661141968094</updated>
     </task>
+    <task id="LOCAL-00001" summary="Displaying output details of car and bile manufacturer.">
+      <created>1661146388148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661146388148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +87,29 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Displaying output details of car and bile manufacturer." />
+    <option name="LAST_COMMIT_MESSAGE" value="Displaying output details of car and bile manufacturer." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/vehicles/VehicleService.java</url>
+          <line>3</line>
+          <properties class="com.vehicles.VehicleService" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/vehicles/VehicleService.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

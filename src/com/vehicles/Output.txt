@@ -1,0 +1,4 @@
+Car type is sportsBike its speed is 300
+{Manufacturer name:Honda Motors,Model name:Racing Pro,Type:sportsBike}
+Car type is sportsCar its speed is 250
+{Manufacturer name:Kia Motors,Model name:Seltos,Type:sportsCar}
